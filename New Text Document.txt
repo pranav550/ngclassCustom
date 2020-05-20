@@ -1,0 +1,4 @@
+[ngClass]="{classA : isDispaly, classB:!isDispaly}"
+
+
+[ngClass]="{'classA' : isDispaly, 'classB':!isDispaly}"
